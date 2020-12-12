@@ -4,7 +4,7 @@
 
 Submitted by: **Ryan McKenzie**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -30,11 +30,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I could not figure out how to make the optional features work, but I'm hoping to learn how in the course!
 
 ## License
 
