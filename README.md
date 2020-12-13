@@ -34,7 +34,7 @@ GIF created with [ezgif](https://ezgif.com/).
 
 ## Notes
 
-I could not figure out how to make the optional features work, but I'm hoping to learn how in the course!
+I'm hoping to learn more about how to accomplish the optionals and more in the course!
 
 ## License
 
